@@ -1,4 +1,4 @@
-# Task Management Application
+# Task Management Application for GMI SOFTWARE
 
 A full-stack task management application built with React Native (Expo) and NestJS.
 
@@ -7,7 +7,7 @@ A full-stack task management application built with React Native (Expo) and Nest
 - `/frontend` - React Native mobile application
 - `/backend` - NestJS API server
 
-
+## Task Content
 Zadanie Rekrutacyjne: Full-Stack Developer z naciskiem na Mobile
 Opis zadania
 Twoim zadaniem jest stworzenie aplikacji mobilnej, która będzie pełniła rolę prostego systemu zarządzania zadaniami (to-do list). Skupimy się na funkcjonalnościach związanych z mobile, ale backend również jest ważnym elementem zadania.
